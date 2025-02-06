@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-openai = "*"
+langchain-community = "*"
+langchainhub = "*"
+gdown = "*"
+openai-whisper = "*"
+moviepy = "*"
+langchain-ollama = "*"
+flask = "*"
+streamlit = "*"
+flask-cors = "*"
+waitress = "*"
+pysrt = "*"
+deep-translator = "*"
+transformers = "*"
+sentencepiece = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
