@@ -1,16 +1,28 @@
 [![Real Time Translation Based on AI](/ai.png)](https://drive.google.com/file/d/15HyKCIQCapjHQqBC5Ib1zLj0PZ-PJWSs/view?usp=sharing)
 # Hackstorm Trio 🚀
 
-Welcome to **Hackstorm Trio**, a project developed during ConUHacks IX by our dynamic team.
+Welcome to **Hackstorm Trio**, a project built in just **12 hours** during **ConUHacks IX**, a hackathon that brought together over 500 hackers.
 
 # ClipGenius
 
-Transcribe, Summarize & Translate​
+This project is a streamlined platform designed to transform multilingual video content into intelligent, structured output. It leverages state-of-the-art AI models and toolkits to automate the generation of subtitles, summarize textual content, and support real-time translation and speech recognition. The solution is delivered through a simple and intuitive Streamlit-based user interface.
 
-## 🚀 Features
-- ✅ Transcribe
-- ✅ Summarize 
-- ✅ Translate
+
+# 💡 Key Features
+- **Intelligent Subtitle Generation**  
+Automatically extracts and generates accurate subtitles from video using OpenCV and MoviePy, enabling seamless content accessibility.  
+
+- **🧠 Precise Text Summarization**  
+Employs Hugging Face Transformers for high-accuracy content summarization, making lengthy transcripts easier to digest.  
+
+- **🗣 Real-Time Translation & Speech Recognition**  
+Utilizes Google Translate API and OpenAI Whisper to provide multilingual audio processing and instant transcription for global users.  
+
+- **🖥 Seamless User Interface**  
+Built with Streamlit, the interface allows users to upload videos, configure output formats, and visualize results effortlessly.  
+
+- **🌍 Multilingual Support**  
+Designed for global scalability, it supports various languages and ensures smooth content delivery to international audiences.  
 
 ## 🛠️ Technologies Used
 - **Frontend:** Streamlit
