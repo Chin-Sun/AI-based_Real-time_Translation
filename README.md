@@ -1,4 +1,4 @@
-[![Real Time Translation Based on AI](/ai.png)](https://drive.google.com/uc?id=15HyKCIQCapjHQqBC5Ib1zLj0PZ-PJWSs)
+[![Real Time Translation Based on AI](/ai.png)](https://drive.google.com/file/d/15HyKCIQCapjHQqBC5Ib1zLj0PZ-PJWSs/view?usp=sharing)
 # Hackstorm Trio 🚀
 
 Welcome to **Hackstorm Trio**, a project developed during ConUHacks IX by our dynamic team.
