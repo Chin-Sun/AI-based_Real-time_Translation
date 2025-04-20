@@ -1,3 +1,4 @@
+[![Real Time Translation Based on AI](/ai.png)](https://drive.google.com/uc?id=15HyKCIQCapjHQqBC5Ib1zLj0PZ-PJWSs)
 # Hackstorm Trio 🚀
 
 Welcome to **Hackstorm Trio**, a project developed during ConUHacks IX by our dynamic team.
@@ -18,6 +19,8 @@ Transcribe, Summarize & Translate​
 
 ## 📽️ Demo
 🔗 [Live Demo](https://drive.google.com/file/d/15HyKCIQCapjHQqBC5Ib1zLj0PZ-PJWSs/view?usp=sharing) <!-- Replace with your deployed link or demo video -->
+
+
 
 ## 🖼️ Slides
 🔗 [Link](https://docs.google.com/presentation/d/1qJCVv_6w7r9BogDKMFAWBl-uOdJzI8CR/edit?usp=sharing&ouid=114519568541965646466&rtpof=true&sd=true) <!-- Replace with your deployed link or demo video -->
